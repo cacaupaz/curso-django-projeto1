@@ -1,0 +1,31 @@
+1. <!DOCTYPE html> ---- Identifica a criação de um documento HTML5
+2. <html> </html>  ---- Tag raiz
+2.1 <lang="pt-BR"> ---- Atributo de linguagem da página
+3. <head> </head>  ---- Define meta dados do HTML 
+3.1 <meta charset="utf-8"> ----
+3.2 <title> </title> ---- Título da página
+3.3 <style> </style> ---- CSS 
+4. <body> </body>  ---- Corpo da página
+4.1 <h1> </h1> ---- Cabeçalhos
+4.2 Id e Class ---- Identificadores 
+4.3 <p> </p> ---- Parágrafo
+4.4 <br> ---- Quebra de linha 
+4.5 <b> </b> e <strong> </strong> ---- B=negrito. Strong=forte. 
+4.6 <i> </i> e <em> </em> ---- I=itálico. Em=dar ênfase a palavra ou frase. 
+4.7 <a href=""></a> ---- Link na página ----- target='_blank'---- abre o link em uma nova página
+4.8 <s> </s> e <del> </del> ----- Riscar a palavra.
+4.9 <u> </u> e <ins> </ins> ---- Sublinhar a palavra 
+4.10 <small> </small> ---- diminui a palavra 
+4.11 <sub> </sub> e <sup> </sup> ---- Eleva e e desce a palavra
+4.12 <q> </q> ---- Citar a palavra ""
+
+----FORA DO <P>-----
+<blockquote> </blockquote> ----- Fazer uma citação
+<hr> ----- marca uma linha 
+<code> </code> ----- fonte para código
+<pre> </pre> ---- pré define os espaçamentos do código 
+
+
+
+
+

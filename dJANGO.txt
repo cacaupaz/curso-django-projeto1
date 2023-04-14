@@ -1,0 +1,3 @@
+ativar o ambiente virtual Windows venv/Scripts/activate	
+
+RUNSERVER - python manage.py runserver
